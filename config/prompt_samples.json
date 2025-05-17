@@ -1,0 +1,1037 @@
+{
+    "general": [
+        {
+            "question_type": "Observational Overview",
+            "variations": [
+                "Examine this image. What stands out to you regarding the lesion/disease's appearance?",
+                "Observe this image. What are its most notable visual features?",
+                "Look at this image. Describe its size, color, texture, and shape.",
+                "What visual characteristics of this lesion/disease catch your attention?",
+                "Focus on the lesion/disease shown in this image. What unique features do you observe?",
+                "Describe the lesion/disease in terms of its overall structure and notable traits.",
+                "What details in this image stand out in terms of the lesion/disease's morphology?",
+                "Looking at this image, what features of the lesion/disease are immediately noticeable?",
+                "Describe the lesion/disease in this image in terms of its visual characteristics.",
+                "What are the main visual elements of this lesion/disease that you would highlight?",
+                "Observe the lesion/disease shown. How would you describe its key features?",
+                "Examine the lesion/disease. What do you notice about its structure and patterns?",
+                "What do the color and overall appearance of the lesion/disease reveal about it?",
+                "What unique visual traits make this lesion/disease distinctive?",
+                "Describe the lesion/disease's texture, border, and pigmentation.",
+                "How would you summarize the key morphological traits of this lesion/disease?",
+                "What structural elements of the lesion/disease catch your eye first?",
+                "What visual clues does the lesion/disease provide about its nature?",
+                "Describe the lesion/disease as if explaining it to someone unfamiliar with dermatology.",
+                "What are the defining visual traits of the lesion/disease in this image?"
+            ]
+        },
+        {
+            "question_type": "Ask for Diagnosis",
+            "variations": [
+                "What type of skin disease is depicted in the image?",
+                "What specific type of lesion/disease is shown in this image?",
+                "Based on the image, what might be the diagnosis?",
+                "What do you think is the condition shown in this image?",
+                "What does the lesion/disease in this image suggest about its diagnosis?",
+                "What type of lesion/disease might this be based on its appearance?",
+                "Looking at the image, what diagnosis comes to mind?",
+                "What condition might this lesion/disease represent?",
+                "What does this lesion/disease likely indicate in terms of diagnosis?",
+                "Based on this image, what could the lesion/disease be categorized as?",
+                "What is the most likely diagnosis for the lesion/disease shown in this image?",
+                "Looking at this lesion/disease, what condition could it represent?",
+                "What possible condition could the image indicate?",
+                "What type of lesion/disease could this be based solely on its visual features?",
+                "What do the visible features of this lesion/disease suggest as a diagnosis?",
+                "What skin condition might correspond to the lesion/disease in this image?",
+                "How would you classify the lesion/disease depicted in this image?",
+                "What type of condition does this lesion/disease suggest?",
+                "Based on the lesion/disease's appearance, what diagnosis would you suggest?",
+                "What is your diagnostic hypothesis for this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Differential Diagnosis",
+            "variations": [
+                "What are some possible differential diagnoses for this lesion/disease?",
+                "What conditions might present similarly to the lesion/disease in this image?",
+                "What other skin conditions could match the appearance of this lesion/disease?",
+                "What are the closest differential diagnoses for this lesion/disease?",
+                "What conditions might resemble the lesion/disease shown here?",
+                "How would you differentiate this lesion/disease from similar conditions?",
+                "What alternative conditions should be considered for this lesion/disease?",
+                "What other diagnoses might overlap with the features of this lesion/disease?",
+                "If not the obvious diagnosis, what other conditions might explain this lesion/disease?",
+                "What other explanations could account for the lesion/disease's appearance?",
+                "What are some alternative possibilities for the condition shown in this image?",
+                "What additional conditions might align with the lesion/disease's visual features?",
+                "What diagnostic possibilities could you suggest for this lesion/disease?",
+                "What other diseases should be ruled out based on the lesion/disease's appearance?",
+                "What are some overlapping conditions to consider for this lesion/disease?",
+                "What secondary diagnoses might fit the lesion/disease's visual presentation?",
+                "What conditions share similarities with the lesion/disease in this image?",
+                "How would you rank the most likely alternative diagnoses for this lesion/disease?",
+                "What differential diagnoses should be kept in mind for this lesion/disease?",
+                "What other possibilities should be evaluated for the lesion/disease's condition?"
+            ]
+        },
+        {
+            "question_type": "Patient-Centered Explanation",
+            "variations": [
+                "How would you explain the lesion/disease in this image to a worried patient?",
+                "What is a simple explanation you might provide about this lesion/disease to a patient?",
+                "How would you describe the condition in this image to someone unfamiliar with dermatology?",
+                "If a patient asked about this lesion/disease, how would you explain it to them?",
+                "How would you communicate the characteristics of this lesion/disease in simple terms?",
+                "What would you tell a patient who is concerned about the lesion/disease shown here?",
+                "How would you reassure a patient regarding the lesion/disease in this image?",
+                "What patient-friendly explanation could you provide for this lesion/disease?",
+                "What would you say to help a patient understand this lesion/disease better?",
+                "How would you describe this lesion/disease in an accessible way for a patient?",
+                "How might you simplify the description of this lesion/disease for someone without medical training?",
+                "What is the easiest way to describe the condition shown in this image to a patient?",
+                "How would you clarify the nature of this lesion/disease for a non-medical audience?",
+                "What explanation would you offer to alleviate a patient's concerns about this lesion/disease?",
+                "How could you explain the lesion/disease in this image to a patient who is worried?",
+                "What would you say to a patient to explain this lesion/disease's key features?",
+                "How can you simplify the explanation of this lesion/disease for a layperson?",
+                "What language would you use to describe this lesion/disease in a patient consultation?",
+                "How would you explain this lesion/disease's appearance and nature to a patient?",
+                "What basic description could you provide to help a patient understand this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Next Steps",
+            "variations": [
+                "What steps should be taken next to evaluate the lesion/disease in this image?",
+                "What follow-up procedures might be necessary for this lesion/disease?",
+                "What additional actions would you take to confirm the nature of this lesion/disease?",
+                "What is the next clinical step after observing this lesion/disease?",
+                "What further diagnostic tests would you recommend for this lesion/disease?",
+                "What follow-up actions are required to better understand this lesion/disease?",
+                "What clinical workflow should follow after identifying this lesion/disease?",
+                "How would you proceed to confirm or treat this lesion/disease?",
+                "What further steps are crucial to address this lesion/disease appropriately?",
+                "What would be your recommended next action for this lesion/disease?",
+                "How might you validate the diagnosis of this lesion/disease through further testing?",
+                "What clinical evaluations should follow for the lesion/disease shown here?",
+                "What next steps are typical for managing this lesion/disease type?",
+                "What diagnostic procedures would help clarify this lesion/disease?",
+                "What additional tests are needed for a more accurate assessment of this lesion/disease?",
+                "What actions would you take next to address this lesion/disease's condition?",
+                "What recommendations would you provide for the further evaluation of this lesion/disease?",
+                "What are the next steps in diagnosing and managing this lesion/disease?",
+                "What further evaluations are essential for this lesion/disease's treatment or diagnosis?",
+                "What clinical measures should be implemented next for this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Creativity",
+            "variations": [
+                "Generate a concise question and answer about the lesion/disease in this image.",
+                "Create a question-answer pair that highlights the key aspects of this lesion/disease.",
+                "Write an educational question and its answer for the lesion/disease shown here.",
+                "Formulate a question-answer pair to explain the lesion/disease's characteristics.",
+                "Develop a question-answer set for teaching purposes about this lesion/disease.",
+                "Write a descriptive question and answer to summarize this lesion/disease.",
+                "Generate a question and answer that clarifies the lesion/disease's key traits.",
+                "Create a question and its answer to help someone understand this lesion/disease.",
+                "Write a concise Q&A pair for explaining the lesion/disease in this image.",
+                "Formulate a question-answer pair that describes the lesion/disease comprehensively.",
+                "Write a clear question and answer to teach someone about this lesion/disease.",
+                "Create a brief Q&A that focuses on the lesion/disease's visual features.",
+                "Write a compact question and answer that explains the lesion/disease shown here.",
+                "What is a good Q&A pair for describing this lesion/disease effectively?",
+                "Generate an educational Q&A for better understanding this lesion/disease.",
+                "Formulate a detailed question and answer to summarize the lesion/disease.",
+                "Create an insightful Q&A that captures the essence of this lesion/disease.",
+                "Write a meaningful Q&A about the lesion/disease's diagnostic features.",
+                "What is a helpful question-answer pair for understanding this lesion/disease?",
+                "Write an informative Q&A to clarify the lesion/disease in this image.",
+                "Write a question and answer that highlights the lesion/disease's key traits."
+            ]
+        }
+    ],
+    "derm12345": [
+        {
+            "question_type": "Identify the Lesion",
+            "variations": [
+                "Based on the appearance of this lesion/skin disease, what condition might it represent?",
+                "What is the most likely diagnosis for the lesion/skin disease in this image?",
+                "What type of skin condition is depicted in this image?",
+                "What dermatological condition does this lesion/skin disease most resemble?",
+                "Looking at this image, what skin disease could this lesion/skin disease indicate?",
+                "What type of lesion/skin disease does this image most likely show?",
+                "Based on its visual features, what might this lesion/skin disease be categorized as?",
+                "What skin disorder might be associated with this lesion/skin disease?",
+                "What condition does the appearance of this lesion/skin disease suggest?",
+                "Based solely on the image, how would you classify this lesion/skin disease?"
+            ]
+        },
+        {
+            "question_type": "Identify the Lesion 2",
+            "variations": [
+                "What type of skin condition does this lesion/disease most closely resemble?",
+                "Looking at this lesion/disease, what clinical diagnosis might be suggested?",
+                "What dermatological condition is most likely based on the appearance of this lesion/disease?",
+                "What might be the underlying condition for the lesion/disease seen in this image?",
+                "Based on the lesion/disease's characteristics, what diagnosis would you consider?",
+                "What condition does this lesion/disease most likely represent in a clinical setting?",
+                "Considering its morphology, what might this lesion/disease indicate?",
+                "What diagnostic category would you place this lesion/disease in based on its appearance?",
+                "What is your clinical impression of this lesion/disease based on the image?",
+                "What condition comes to mind first when examining this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Visual Features",
+            "variations": [
+                "Describe the key visual features of the lesion/skin disease in this image.",
+                "What do the lesion/skin disease's borders, color, and texture suggest about its nature?",
+                "How would you describe the texture, shape, or pigmentation of this lesion/skin disease?",
+                "What specific visual characteristics stand out in this lesion/skin disease?",
+                "Describe the lesion/skin disease's morphology, including any notable patterns or asymmetry.",
+                "What are the key distinguishing features visible in this lesion/skin disease?",
+                "How would you characterize the overall structure and appearance of this lesion/skin disease?",
+                "Describe the borders, pigmentation, and symmetry of this lesion/skin disease.",
+                "What visual traits of this lesion/skin disease are most prominent?",
+                "Based on the image, what key features define this lesion/skin disease?",
+                "Describe the lesion/skin disease's color, border, and texture. What do these features suggest about its nature?",
+                "Describe the lesion/skin disease's color, border, and texture. Classify the lesion/skin disease based on these features.",
+                "Describe the lesion/skin disease's color, border, and symmetry. How do these factors influence its diagnosis?",
+                "Describe the lesion/skin disease's color, outline, and elevation. What implications do these features have for potential treatment?",
+                "Describe the lesion/skin disease's pigmentation, margins, and surface. How do these characteristics shape its classification?",
+                "Describe the lesion/skin disease's hue, border definition, and texture. How would you interpret these findings?",
+                "Describe the lesion/skin disease's color transition, edges, and thickness. What do these suggest about possible progression?"
+            ]
+        },
+        {
+            "question_type": "Visual Features 2",
+            "variations": [
+                "What specific morphological details stand out in this lesion/disease?",
+                "Describe the lesion / disease's color patterns and what they suggest.",
+                "What do the lesion / disease's border characteristics indicate about its nature?",
+                "How would you interpret the texture and symmetry of this lesion / disease?",
+                "What key visual elements in this lesion / disease could aid in diagnosis?",
+                "Describe the unique patterns or irregularities visible in this lesion / disease.",
+                "What does the lesion / disease's distribution of pigmentation suggest?",
+                "What are the most prominent visual features in this lesion / disease?",
+                "How would you characterize the overall appearance of this lesion / disease, including shape and texture?",
+                "What visual details in this lesion / disease could provide diagnostic clues?",
+                "Describe the lesion/skin disease's color uniformity, border shape, and tactile feel. How might these observations guide further testing?",
+                "Describe the lesion/skin disease's color patterns, border regularity, and overall size. How do these aspects affect your assessment?",
+                "Describe the lesion/skin disease's color contrast, border type, and surface texture. What could this indicate regarding its severity?",
+                "Describe the lesion/skin disease's color variations, border clarity, and any visible asymmetry. How might these features inform a diagnosis?",
+                "Describe the lesion/skin disease's color distribution, border style, and raised or flat areas. How would these details influence classification?"
+            ]
+        },
+        {
+            "question_type": "Malignancy Assessment",
+            "variations": [
+                "Is the lesion/skin disease in this image more likely benign or malignant?",
+                "What does the lesion/skin disease's appearance suggest about its malignancy?",
+                "Could this lesion/skin disease represent a malignant condition? Why or why not?",
+                "Based on its visual features, does this lesion/skin disease appear harmful?",
+                "What characteristics of this lesion/skin disease might indicate malignancy?",
+                "How does the lesion/skin disease's morphology influence its malignancy assessment?",
+                "Would you classify this lesion/skin disease as benign or malignant based on the image?",
+                "What features in the image might suggest whether this lesion/skin disease is malignant?",
+                "Is this lesion/skin disease likely to be dangerous? Why or why not?",
+                "How does the appearance of this lesion/skin disease affect its malignancy evaluation?"
+            ]
+        },
+        {
+            "question_type": "Differential Diagnosis",
+            "variations": [
+                "What are the possible differential diagnoses for this lesion/skin disease?",
+                "What other conditions could present similarly to this lesion/skin disease?",
+                "If not the most obvious diagnosis, what alternative conditions might explain this lesion/skin disease?",
+                "What are the closest alternative diagnoses for this lesion/skin disease?",
+                "What dermatological disorders might resemble the lesion/skin disease in this image?",
+                "What other conditions should be considered when evaluating this lesion/skin disease?",
+                "What are the main differential diagnoses based on this lesion/skin disease's appearance?",
+                "How might this lesion/skin disease's features overlap with other skin conditions?",
+                "What alternative diagnoses could explain the characteristics of this lesion/skin disease?",
+                "What conditions might be ruled out based on the lesion/skin disease's appearance?"
+            ]
+        },
+        {
+            "question_type": "Patient-Centered Explanation",
+            "variations": [
+                "How would you explain the nature of this lesion/skin disease to a patient?",
+                "What is a simple explanation for the condition shown in this image?",
+                "If a patient asked about this lesion/skin disease, how would you describe it?",
+                "How would you explain the significance of this lesion/skin disease to a non-specialist?",
+                "What would you tell a patient concerned about this lesion/skin disease?",
+                "How might you describe the appearance of this lesion/skin disease in plain language?",
+                "What reassurance could you provide a patient about this lesion/skin disease?",
+                "How would you explain the features of this lesion/skin disease in layman's terms?",
+                "What is the simplest way to describe the condition depicted in this image?",
+                "If a patient wanted to understand this lesion/skin disease, how would you explain it?"
+            ]
+        }
+    ],
+    "hiba": [
+        {
+            "question_type": "Identify the Lesion",
+            "variations": [
+                "Based on the appearance of this lesion/skin disease, what condition might it represent?",
+                "What is the most likely diagnosis for the lesion/skin disease in this image?",
+                "What type of skin condition is depicted in this image?",
+                "What dermatological condition does this lesion/skin disease most resemble?",
+                "Looking at this image, what skin disease could this lesion/skin disease indicate?",
+                "What type of lesion/skin disease does this image most likely show?",
+                "Based on its visual features, what might this lesion/skin disease be categorized as?",
+                "What skin disorder might be associated with this lesion/skin disease?",
+                "What condition does the appearance of this lesion/skin disease suggest?",
+                "Based solely on the image, how would you classify this lesion/skin disease?"
+            ]
+        },
+        {
+            "question_type": "Identify the Lesion 2",
+            "variations": [
+                "What type of skin condition does this lesion/disease most closely resemble?",
+                "Looking at this lesion/disease, what clinical diagnosis might be suggested?",
+                "What dermatological condition is most likely based on the appearance of this lesion/disease?",
+                "What might be the underlying condition for the lesion/disease seen in this image?",
+                "Based on the lesion/disease's characteristics, what diagnosis would you consider?",
+                "What condition does this lesion/disease most likely represent in a clinical setting?",
+                "Considering its morphology, what might this lesion/disease indicate?",
+                "What diagnostic category would you place this lesion/disease in based on its appearance?",
+                "What is your clinical impression of this lesion/disease based on the image?",
+                "What condition comes to mind first when examining this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Visual Features",
+            "variations": [
+                "Describe the key visual features of the lesion/skin disease in this image.",
+                "What do the lesion/skin disease's borders, color, and texture suggest about its nature?",
+                "How would you describe the texture, shape, or pigmentation of this lesion/skin disease?",
+                "What specific visual characteristics stand out in this lesion/skin disease?",
+                "Describe the lesion/skin disease's morphology, including any notable patterns or asymmetry.",
+                "What are the key distinguishing features visible in this lesion/skin disease?",
+                "How would you characterize the overall structure and appearance of this lesion/skin disease?",
+                "Describe the borders, pigmentation, and symmetry of this lesion/skin disease.",
+                "What visual traits of this lesion/skin disease are most prominent?",
+                "Based on the image, what key features define this lesion/skin disease?",
+                "Describe the lesion/skin disease's color, border, and texture. What do these features suggest about its nature?",
+                "Describe the lesion/skin disease's color, border, and texture. Classify the lesion/skin disease based on these features.",
+                "Describe the lesion/skin disease's color, border, and symmetry. How do these factors influence its diagnosis?",
+                "Describe the lesion/skin disease's color, outline, and elevation. What implications do these features have for potential treatment?",
+                "Describe the lesion/skin disease's pigmentation, margins, and surface. How do these characteristics shape its classification?",
+                "Describe the lesion/skin disease's hue, border definition, and texture. How would you interpret these findings?",
+                "Describe the lesion/skin disease's color transition, edges, and thickness. What do these suggest about possible progression?"
+            ]
+        },
+        {
+            "question_type": "Visual Features 2",
+            "variations": [
+                "What specific morphological details stand out in this lesion/disease?",
+                "Describe the lesion / disease's color patterns and what they suggest.",
+                "What do the lesion / disease's border characteristics indicate about its nature?",
+                "How would you interpret the texture and symmetry of this lesion / disease?",
+                "What key visual elements in this lesion / disease could aid in diagnosis?",
+                "Describe the unique patterns or irregularities visible in this lesion / disease.",
+                "What does the lesion / disease's distribution of pigmentation suggest?",
+                "What are the most prominent visual features in this lesion / disease?",
+                "How would you characterize the overall appearance of this lesion / disease, including shape and texture?",
+                "What visual details in this lesion / disease could provide diagnostic clues?",
+                "Describe the lesion/skin disease's color uniformity, border shape, and tactile feel. How might these observations guide further testing?",
+                "Describe the lesion/skin disease's color patterns, border regularity, and overall size. How do these aspects affect your assessment?",
+                "Describe the lesion/skin disease's color contrast, border type, and surface texture. What could this indicate regarding its severity?",
+                "Describe the lesion/skin disease's color variations, border clarity, and any visible asymmetry. How might these features inform a diagnosis?",
+                "Describe the lesion/skin disease's color distribution, border style, and raised or flat areas. How would these details influence classification?"
+            ]
+        },
+        {
+            "question_type": "Malignancy Assessment",
+            "variations": [
+                "Is the lesion/skin disease in this image more likely benign or malignant?",
+                "What does the lesion/skin disease's appearance suggest about its malignancy?",
+                "Could this lesion/skin disease represent a malignant condition? Why or why not?",
+                "Based on its visual features, does this lesion/skin disease appear harmful?",
+                "What characteristics of this lesion/skin disease might indicate malignancy?",
+                "How does the lesion/skin disease's morphology influence its malignancy assessment?",
+                "Would you classify this lesion/skin disease as benign or malignant based on the image?",
+                "What features in the image might suggest whether this lesion/skin disease is malignant?",
+                "Is this lesion/skin disease likely to be dangerous? Why or why not?",
+                "How does the appearance of this lesion/skin disease affect its malignancy evaluation?"
+            ]
+        },
+        {
+            "question_type": "Differential Diagnosis",
+            "variations": [
+                "What are the possible differential diagnoses for this lesion/skin disease?",
+                "What other conditions could present similarly to this lesion/skin disease?",
+                "If not the most obvious diagnosis, what alternative conditions might explain this lesion/skin disease?",
+                "What are the closest alternative diagnoses for this lesion/skin disease?",
+                "What dermatological disorders might resemble the lesion/skin disease in this image?",
+                "What other conditions should be considered when evaluating this lesion/skin disease?",
+                "What are the main differential diagnoses based on this lesion/skin disease's appearance?",
+                "How might this lesion/skin disease's features overlap with other skin conditions?",
+                "What alternative diagnoses could explain the characteristics of this lesion/skin disease?",
+                "What conditions might be ruled out based on the lesion/skin disease's appearance?"
+            ]
+        },
+        {
+            "question_type": "Patient-Centered Explanation",
+            "variations": [
+                "How would you explain the nature of this lesion/skin disease to a patient?",
+                "What is a simple explanation for the condition shown in this image?",
+                "If a patient asked about this lesion/skin disease, how would you describe it?",
+                "How would you explain the significance of this lesion/skin disease to a non-specialist?",
+                "What would you tell a patient concerned about this lesion/skin disease?",
+                "How might you describe the appearance of this lesion/skin disease in plain language?",
+                "What reassurance could you provide a patient about this lesion/skin disease?",
+                "How would you explain the features of this lesion/skin disease in layman's terms?",
+                "What is the simplest way to describe the condition depicted in this image?",
+                "If a patient wanted to understand this lesion/skin disease, how would you explain it?"
+            ]
+        }
+    ],
+    "ham10000": [
+        {
+            "question_type": "Identify the Lesion/disease",
+            "variations": [
+                "This lesion/disease is located on the {localization} of a {age}-year-old {sex}. Based on the image, what type of lesion/disease might this be?",
+                "Examine this image. What type of lesion/disease do you think this could represent?",
+                "This dermoscopic image is from the {localization}. What might the lesion/disease type be?",
+                "Look at this lesion/disease on the {localization}. Based on what you observe, what type of lesion/disease could this be?",
+                "Given the dermoscopic image, what lesion/disease type might you suggest based solely on its appearance?",
+                "This image shows a lesion/disease from a {age}-year-old patient. What type of lesion/disease might this be?",
+                "What type of lesion/disease do you think this is, given its location on the {localization}?",
+                "This lesion/disease is on the {localization} of a {sex}. What type of lesion/disease could this be?",
+                "What type of lesion/disease might this be, given that the patient is {age} years old?",
+                "Based on the image alone, without considering metadata, what lesion/disease type might this represent?",
+                "Observe this dermoscopic image and suggest the type of lesion/disease it might represent.",
+                "Look at this lesion/disease. What type of lesion/disease could it be based on its appearance?",
+                "What type of lesion/disease might be suggested by the visual characteristics in this image?",
+                "Given this dermoscopic image, describe the lesion/disease and suggest what it might be.",
+                "Examine the lesion/disease in this image. What condition could it potentially indicate?",
+                "What do the visible patterns in this dermoscopic image suggest about the lesion/disease type?",
+                "Based solely on the appearance of the lesion/disease in this image, what could it represent?",
+                "This image shows a lesion/disease. What type of lesion/disease might this dermoscopic view indicate?",
+                "Describe the lesion/disease shown in this image. What might it be based on its visual features?",
+                "Using only the dermoscopic details visible in this image, what type of lesion/disease could this be?"
+            ]
+        },
+        {
+            "question_type": "Differential Diagnosis",
+            "variations": [
+                "This lesion/disease on the {localization} is from a {age}-year-old {sex}. What are some possible diagnoses you would consider, and why?",
+                "What differential diagnoses come to mind for this lesion/disease on the {localization} of a {age}-year-old patient?",
+                "Looking at this lesion/disease, what are some conditions that could explain its appearance?",
+                "This lesion/disease is located on the {localization}. What potential diagnoses should be considered?",
+                "Considering the patient is {age} years old, what differential diagnoses might fit the lesion/disease seen in this image?",
+                "What are some alternative conditions you would think of for this lesion/disease on the {localization}?",
+                "For a lesion/disease in this location ({localization}), what are some diagnoses you would explore?",
+                "This image shows a lesion/disease from a {sex}. What are the top differential diagnoses you might consider?",
+                "What differential diagnoses would you propose for this lesion/disease, given its location and the patient's age?",
+                "Without using additional metadata, what possible conditions could this lesion/disease represent?",
+                "What possible diagnoses could explain the appearance of the lesion/disease in this image?",
+                "Looking at this image, what conditions might you consider as differential diagnoses?",
+                "Based solely on the features visible in this image, what diagnoses come to mind?",
+                "What are some potential conditions that could correspond to the lesion/disease in this image?",
+                "What differential diagnoses might you propose based on the dermoscopic view of this lesion/disease?",
+                "What other conditions, apart from the label, could potentially explain the lesion/disease in this image?",
+                "Examine this lesion/disease and list the possible diagnoses it might align with.",
+                "What alternative explanations could exist for the lesion/disease shown in this image?",
+                "Considering only the lesion/disease's visual characteristics, what diagnoses would you suggest?",
+                "What differential diagnoses might you prioritize for the lesion/disease visible in this image?"
+            ]
+        },
+        {
+            "question_type": "Morphological Features",
+            "variations": [
+                "Look at this lesion/disease on the {localization} of a {age}-year-old {sex}. List the notable features (e.g., color, border, pattern) and their significance.",
+                "Describe the visible dermoscopic patterns in this lesion/disease. What is their relevance for diagnosis?",
+                "This lesion/disease is on the {localization}. What are the most prominent features visible in this dermoscopic image?",
+                "Observe the morphology of this lesion/disease. Which features stand out and why?",
+                "What specific characteristics of the lesion/disease in this image (e.g., color, border) might help categorize it?",
+                "Examine the lesion/disease's patterns and structure. What do they tell you about its nature?",
+                "What are the key morphological features of this lesion/disease? How might they aid diagnosis?",
+                "Look closely at this lesion/disease from a {age}-year-old patient. What details stand out in terms of its color or shape?",
+                "This lesion/disease on the {localization} exhibits certain dermoscopic patterns. What are they?",
+                "Ignoring metadata, describe the morphological features that are most prominent in this image.",
+                "What morphological features of this lesion/disease are most noticeable?",
+                "Describe the patterns visible in this dermoscopic image and their significance.",
+                "What can the lesion/disease's structure and patterns tell you about its nature?",
+                "What are the most important morphological features visible in this image?",
+                "Look closely at this lesion/disease. What specific features stand out to you?",
+                "Observe the details of this lesion/disease. Which features seem most relevant for diagnosis?",
+                "Describe the color, texture, or patterns visible in this lesion/disease.",
+                "What dermoscopic features in this image might help categorize the lesion/disease?",
+                "What specific visual characteristics of this lesion/disease are worth noting?",
+                "How do the visible patterns in this lesion/disease contribute to understanding its type?"
+            ]
+        },
+        {
+            "question_type": "Metadata Integration",
+            "variations": [
+                "This lesion/disease is on the {localization}. How might the patient's lesion/disease location influence diagnosis?",
+                "Considering the lesion/disease is on the {localization}, what role might location play in its evaluation?",
+                "This image shows a lesion/disease on the {localization}. What key factors would you consider in diagnosis?",
+                "What diagnostic considerations change when dealing with a lesion/disease in the {localization}?",
+                "This lesion/disease is located on the {localization} of a patient. What does this tell you about possible diagnoses?",
+                "How might the combination of location ({localization}) influence diagnostic possibilities?",
+                "Considering the lesion/disease's location, what are the primary factors to evaluate in diagnosis?",
+                "How does the lesion/disease's location guide the diagnostic process?",
+                "What role does the lesion/disease's localization ({localization}) play in narrowing down diagnoses?",
+                "This lesion/disease is located on the {localization}. What additional factors might influence its diagnosis?",
+                "For a lesion/disease located on the {localization}, what considerations come into play during evaluation?",
+                "What influence does location ({localization}) have on determining the lesion/disease's nature?",
+                "The lesion/disease appears on the {localization}. How might this factor affect diagnosis?",
+                "How does the location of the lesion/disease ({localization}) guide possible diagnostic steps?",
+                "For a lesion/disease in this particular location, what diagnostic factors should be emphasized?",
+                "The lesion/disease's location is the {localization}. What does this suggest diagnostically?",
+                "When the lesion/disease is found on the {localization}, what possibilities become more likely?",
+                "What role does location ({localization}) play in refining the differential diagnosis?",
+                "For lesion/diseases in the {localization}, what key aspects of diagnosis are commonly considered?",
+                "Considering the lesion/disease's location, how does it narrow or expand diagnostic possibilities?"
+            ]
+        },
+        {
+            "question_type": "Clinical Workflow",
+            "variations": [
+                "Given this image of a lesion/disease on the {localization}, what steps should a dermatologist take to confirm or treat the condition?",
+                "What steps would you recommend for verifying and addressing this lesion/disease's diagnosis?",
+                "This lesion/disease is located on the {localization}. What would be the next step in a clinical evaluation?",
+                "What additional tests might be necessary to confirm the diagnosis for this lesion/disease on the {localization}?",
+                "How would you proceed with diagnosing and managing a lesion/disease like this in a clinical setting?",
+                "What clinical workflow would you follow to address this lesion/disease in the {localization}?",
+                "After observing this lesion/disease, what are the recommended steps for further evaluation?",
+                "What clinical actions would you take to further investigate or treat this lesion/disease?",
+                "What is the most likely diagnostic pathway for this lesion/disease, given its location?",
+                "How would you approach confirming the diagnosis for a lesion/disease on the {localization}?",
+                "What steps should a dermatologist take to confirm the diagnosis for this lesion/disease?",
+                "After reviewing this lesion/disease, what diagnostic or management actions are recommended?",
+                "What would be the next step in evaluating this lesion/disease in a clinical setting?",
+                "What clinical workflow is typically followed for lesion/diseases like the one shown in this image?",
+                "What tests or procedures are standard for lesion/diseases with this appearance?",
+                "How would you proceed with diagnosing and managing this lesion/disease in practice?",
+                "What diagnostic steps are necessary for confirming the nature of this lesion/disease?",
+                "What additional information or tests would help clarify the diagnosis for this lesion/disease?",
+                "What clinical actions are typically taken for lesion/diseases with this morphology?",
+                "What is the most likely diagnostic pathway for evaluating a lesion/disease with these features?"
+            ]
+        }
+    ],
+    "bcn20000": [
+        {
+            "question_type": "Identify the Lesion",
+            "variations": [
+                "Based on the appearance of this lesion/skin disease, what condition might it represent?",
+                "What is the most likely diagnosis for the lesion/skin disease in this image?",
+                "What type of skin condition is depicted in this image?",
+                "What dermatological condition does this lesion/skin disease most resemble?",
+                "Looking at this image, what skin disease could this lesion/skin disease indicate?",
+                "What type of lesion/skin disease does this image most likely show?",
+                "Based on its visual features, what might this lesion/skin disease be categorized as?",
+                "What skin disorder might be associated with this lesion/skin disease?",
+                "What condition does the appearance of this lesion/skin disease suggest?",
+                "Based solely on the image, how would you classify this lesion/skin disease?"
+            ]
+        },
+        {
+            "question_type": "Identify the Lesion 2",
+            "variations": [
+                "What type of skin condition does this lesion/disease most closely resemble?",
+                "Looking at this lesion/disease, what clinical diagnosis might be suggested?",
+                "What dermatological condition is most likely based on the appearance of this lesion/disease?",
+                "What might be the underlying condition for the lesion/disease seen in this image?",
+                "Based on the lesion/disease's characteristics, what diagnosis would you consider?",
+                "What condition does this lesion/disease most likely represent in a clinical setting?",
+                "Considering its morphology, what might this lesion/disease indicate?",
+                "What diagnostic category would you place this lesion/disease in based on its appearance?",
+                "What is your clinical impression of this lesion/disease based on the image?",
+                "What condition comes to mind first when examining this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Visual Features",
+            "variations": [
+                "Describe the key visual features of the lesion/skin disease in this image.",
+                "What do the lesion/skin disease's borders, color, and texture suggest about its nature?",
+                "How would you describe the texture, shape, or pigmentation of this lesion/skin disease?",
+                "What specific visual characteristics stand out in this lesion/skin disease?",
+                "Describe the lesion/skin disease's morphology, including any notable patterns or asymmetry.",
+                "What are the key distinguishing features visible in this lesion/skin disease?",
+                "How would you characterize the overall structure and appearance of this lesion/skin disease?",
+                "Describe the borders, pigmentation, and symmetry of this lesion/skin disease.",
+                "What visual traits of this lesion/skin disease are most prominent?",
+                "Based on the image, what key features define this lesion/skin disease?",
+                "Describe the lesion/skin disease's color, border, and texture. What do these features suggest about its nature?",
+                "Describe the lesion/skin disease's color, border, and texture. Classify the lesion/skin disease based on these features.",
+                "Describe the lesion/skin disease's color, border, and symmetry. How do these factors influence its diagnosis?",
+                "Describe the lesion/skin disease's color, outline, and elevation. What implications do these features have for potential treatment?",
+                "Describe the lesion/skin disease's pigmentation, margins, and surface. How do these characteristics shape its classification?",
+                "Describe the lesion/skin disease's hue, border definition, and texture. How would you interpret these findings?",
+                "Describe the lesion/skin disease's color transition, edges, and thickness. What do these suggest about possible progression?"
+            ]
+        },
+        {
+            "question_type": "Visual Features 2",
+            "variations": [
+                "What specific morphological details stand out in this lesion/disease?",
+                "Describe the lesion / disease's color patterns and what they suggest.",
+                "What do the lesion / disease's border characteristics indicate about its nature?",
+                "How would you interpret the texture and symmetry of this lesion / disease?",
+                "What key visual elements in this lesion / disease could aid in diagnosis?",
+                "Describe the unique patterns or irregularities visible in this lesion / disease.",
+                "What does the lesion / disease's distribution of pigmentation suggest?",
+                "What are the most prominent visual features in this lesion / disease?",
+                "How would you characterize the overall appearance of this lesion / disease, including shape and texture?",
+                "What visual details in this lesion / disease could provide diagnostic clues?",
+                "Describe the lesion/skin disease's color uniformity, border shape, and tactile feel. How might these observations guide further testing?",
+                "Describe the lesion/skin disease's color patterns, border regularity, and overall size. How do these aspects affect your assessment?",
+                "Describe the lesion/skin disease's color contrast, border type, and surface texture. What could this indicate regarding its severity?",
+                "Describe the lesion/skin disease's color variations, border clarity, and any visible asymmetry. How might these features inform a diagnosis?",
+                "Describe the lesion/skin disease's color distribution, border style, and raised or flat areas. How would these details influence classification?"
+            ]
+        },
+        {
+            "question_type": "Malignancy Assessment",
+            "variations": [
+                "Is the lesion/skin disease in this image more likely benign or malignant?",
+                "What does the lesion/skin disease's appearance suggest about its malignancy?",
+                "Could this lesion/skin disease represent a malignant condition? Why or why not?",
+                "Based on its visual features, does this lesion/skin disease appear harmful?",
+                "What characteristics of this lesion/skin disease might indicate malignancy?",
+                "How does the lesion/skin disease's morphology influence its malignancy assessment?",
+                "Would you classify this lesion/skin disease as benign or malignant based on the image?",
+                "What features in the image might suggest whether this lesion/skin disease is malignant?",
+                "Is this lesion/skin disease likely to be dangerous? Why or why not?",
+                "How does the appearance of this lesion/skin disease affect its malignancy evaluation?"
+            ]
+        },
+        {
+            "question_type": "Differential Diagnosis",
+            "variations": [
+                "What are the possible differential diagnoses for this lesion/skin disease?",
+                "What other conditions could present similarly to this lesion/skin disease?",
+                "If not the most obvious diagnosis, what alternative conditions might explain this lesion/skin disease?",
+                "What are the closest alternative diagnoses for this lesion/skin disease?",
+                "What dermatological disorders might resemble the lesion/skin disease in this image?",
+                "What other conditions should be considered when evaluating this lesion/skin disease?",
+                "What are the main differential diagnoses based on this lesion/skin disease's appearance?",
+                "How might this lesion/skin disease's features overlap with other skin conditions?",
+                "What alternative diagnoses could explain the characteristics of this lesion/skin disease?",
+                "What conditions might be ruled out based on the lesion/skin disease's appearance?"
+            ]
+        },
+        {
+            "question_type": "Patient-Centered Explanation",
+            "variations": [
+                "How would you explain the nature of this lesion/skin disease to a patient?",
+                "What is a simple explanation for the condition shown in this image?",
+                "If a patient asked about this lesion/skin disease, how would you describe it?",
+                "How would you explain the significance of this lesion/skin disease to a non-specialist?",
+                "What would you tell a patient concerned about this lesion/skin disease?",
+                "How might you describe the appearance of this lesion/skin disease in plain language?",
+                "What reassurance could you provide a patient about this lesion/skin disease?",
+                "How would you explain the features of this lesion/skin disease in layman's terms?",
+                "What is the simplest way to describe the condition depicted in this image?",
+                "If a patient wanted to understand this lesion/skin disease, how would you explain it?"
+            ]
+        },
+        {
+            "question_type": "Anatomical Context",
+            "variations": [
+                "Given this lesion is located on the {anatom_site_general}, what specific features would you expect?",
+                "How does the {anatom_site_general} location influence your assessment of this lesion?",
+                "What characteristics are typical for lesions in the {anatom_site_general} area?",
+                "How might the {anatom_site_general} location affect the presentation of this lesion?",
+                "What anatomical considerations are important for a lesion in the {anatom_site_general}?",
+                "Based on its {anatom_site_general} location, what additional factors should be considered?",
+                "How does the {anatom_site_general} location impact the differential diagnosis?",
+                "What location-specific features do you observe in this {anatom_site_general} lesion?",
+                "What unique challenges does the {anatom_site_general} location present for diagnosis?",
+                "How does the {anatom_site_general} location influence your management approach?",
+                "What are the common pathological patterns for lesions found in the {anatom_site_general} region?",
+                "How do environmental factors typically affect lesions in the {anatom_site_general} area?",
+                "What anatomical structures underlying the {anatom_site_general} might influence this lesion's appearance?",
+                "In what ways does the {anatom_site_general} location affect your risk assessment for this lesion?",
+                "What specific diagnostic criteria would you apply to a lesion in the {anatom_site_general} area?",
+                "How does the skin thickness and vascularity of the {anatom_site_general} impact your interpretation?",
+                "What special considerations apply to lesions presenting on the {anatom_site_general}?",
+                "How does the natural tension and movement of the {anatom_site_general} affect lesion morphology?",
+                "What unique anatomical features of the {anatom_site_general} might influence lesion development?",
+                "How do you modify your examination technique for lesions in the {anatom_site_general} region?"
+            ]
+        },
+        {
+            "question_type": "Comprehensive Assessment",
+            "variations": [
+                "Considering the patient's age ({age_approx}), {anatom_site_general} location, and {sex} sex, what is your assessment?",
+                "How do the patient demographics and {anatom_site_general} location influence your diagnosis?",
+                "What is the significance of this {anatom_site_general} lesion in a {age_approx}-year-old {sex} patient?",
+                "Based on all available information (age: {age_approx}, location: {anatom_site_general}, sex: {sex}), what is your conclusion?",
+                "How do the patient factors and lesion location guide your diagnostic approach?",
+                "What is the clinical significance of these findings given the patient's profile?",
+                "How would you integrate the patient's demographics and lesion characteristics in your assessment?",
+                "What diagnostic considerations arise from the combination of patient factors and lesion location?",
+                "How does the complete clinical picture influence your diagnostic confidence?",
+                "What is your integrated assessment based on all available clinical information?",
+                "How does the combination of {anatom_site_general} location and patient age ({age_approx}) inform your clinical reasoning?",
+                "What risk assessment would you make for this {anatom_site_general} lesion in a {age_approx}-year-old {sex} individual?",
+                "Taking into account the patient's profile ({age_approx}, {sex}) and lesion site ({anatom_site_general}), what patterns do you observe?",
+                "How would you contextualize these findings in a {sex} patient of {age_approx} years with a {anatom_site_general} presentation?",
+                "What clinical correlations can you draw from the patient's demographics and the {anatom_site_general} lesion location?",
+                "How do age ({age_approx}), anatomical location ({anatom_site_general}), and patient sex ({sex}) shape your clinical impression?",
+                "What is your holistic interpretation of this case, considering patient factors and lesion characteristics?",
+                "Based on the patient's age group ({age_approx}) and the {anatom_site_general} presentation, what clinical patterns emerge?",
+                "How would you synthesize the demographic information and anatomical location in your diagnostic reasoning?",
+                "What conclusions can you draw from the combination of patient age ({age_approx}), {sex} sex, and {anatom_site_general} lesion site?"
+            ]
+        }
+    ],
+    "bcn20000_test": [
+        {
+            "question_type": "Visual Features",
+            "variations": [
+                "Describe the key visual features of the lesion/skin disease in this image.",
+                "What do the lesion/skin disease's borders, color, and texture suggest about its nature?",
+                "How would you describe the texture, shape, or pigmentation of this lesion/skin disease?",
+                "What specific visual characteristics stand out in this lesion/skin disease?",
+                "Describe the lesion/skin disease's morphology, including any notable patterns or asymmetry.",
+                "What are the key distinguishing features visible in this lesion/skin disease?",
+                "How would you characterize the overall structure and appearance of this lesion/skin disease?",
+                "Describe the borders, pigmentation, and symmetry of this lesion/skin disease.",
+                "What visual traits of this lesion/skin disease are most prominent?",
+                "Based on the image, what key features define this lesion/skin disease?",
+                "Describe the lesion/skin disease's color, border, and texture. What do these features suggest about its nature?",
+                "Describe the lesion/skin disease's color, border, and texture. Classify the lesion/skin disease based on these features.",
+                "Describe the lesion/skin disease's color, border, and symmetry. How do these factors influence its diagnosis?",
+                "Describe the lesion/skin disease's color, outline, and elevation. What implications do these features have for potential treatment?",
+                "Describe the lesion/skin disease's pigmentation, margins, and surface. How do these characteristics shape its classification?",
+                "Describe the lesion/skin disease's hue, border definition, and texture. How would you interpret these findings?",
+                "Describe the lesion/skin disease's color transition, edges, and thickness. What do these suggest about possible progression?"
+            ]
+        },
+        {
+            "question_type": "Visual Features 2",
+            "variations": [
+                "What specific morphological details stand out in this lesion/disease?",
+                "Describe the lesion / disease's color patterns and what they suggest.",
+                "What do the lesion / disease's border characteristics indicate about its nature?",
+                "How would you interpret the texture and symmetry of this lesion / disease?",
+                "What key visual elements in this lesion / disease could aid in diagnosis?",
+                "Describe the unique patterns or irregularities visible in this lesion / disease.",
+                "What does the lesion / disease's distribution of pigmentation suggest?",
+                "What are the most prominent visual features in this lesion / disease?",
+                "How would you characterize the overall appearance of this lesion / disease, including shape and texture?",
+                "What visual details in this lesion / disease could provide diagnostic clues?",
+                "Describe the lesion/skin disease's color uniformity, border shape, and tactile feel. How might these observations guide further testing?",
+                "Describe the lesion/skin disease's color patterns, border regularity, and overall size. How do these aspects affect your assessment?",
+                "Describe the lesion/skin disease's color contrast, border type, and surface texture. What could this indicate regarding its severity?",
+                "Describe the lesion/skin disease's color variations, border clarity, and any visible asymmetry. How might these features inform a diagnosis?",
+                "Describe the lesion/skin disease's color distribution, border style, and raised or flat areas. How would these details influence classification?"
+            ]
+        },
+        {
+            "question_type": "Patient-Centered Explanation",
+            "variations": [
+                "How would you explain the nature of this lesion/skin disease to a patient?",
+                "What is a simple explanation for the condition shown in this image?",
+                "If a patient asked about this lesion/skin disease, how would you describe it?",
+                "How would you explain the significance of this lesion/skin disease to a non-specialist?",
+                "What would you tell a patient concerned about this lesion/skin disease?",
+                "How might you describe the appearance of this lesion/skin disease in plain language?",
+                "What reassurance could you provide a patient about this lesion/skin disease?",
+                "How would you explain the features of this lesion/skin disease in layman's terms?",
+                "What is the simplest way to describe the condition depicted in this image?",
+                "If a patient wanted to understand this lesion/skin disease, how would you explain it?"
+            ]
+        },
+        {
+            "question_type": "Comprehensive Assessment",
+            "variations": [
+                "Considering the patient's age ({age_approx}), {anatom_site_general} location, and {sex} sex, what is your assessment?",
+                "How do the patient demographics and {anatom_site_general} location influence your diagnosis?",
+                "What is the significance of this {anatom_site_general} lesion in a {age_approx}-year-old {sex} patient?",
+                "Based on all available information (age: {age_approx}, location: {anatom_site_general}, sex: {sex}), what is your conclusion?",
+                "How do the patient factors and lesion location guide your diagnostic approach?",
+                "What is the clinical significance of these findings given the patient's profile?",
+                "How would you integrate the patient's demographics and lesion characteristics in your assessment?",
+                "What diagnostic considerations arise from the combination of patient factors and lesion location?",
+                "How does the complete clinical picture influence your diagnostic confidence?",
+                "What is your integrated assessment based on all available clinical information?",
+                "How does the combination of {anatom_site_general} location and patient age ({age_approx}) inform your clinical reasoning?",
+                "What risk assessment would you make for this {anatom_site_general} lesion in a {age_approx}-year-old {sex} individual?",
+                "Taking into account the patient's profile ({age_approx}, {sex}) and lesion site ({anatom_site_general}), what patterns do you observe?",
+                "How would you contextualize these findings in a {sex} patient of {age_approx} years with a {anatom_site_general} presentation?",
+                "What clinical correlations can you draw from the patient's demographics and the {anatom_site_general} lesion location?",
+                "How do age ({age_approx}), anatomical location ({anatom_site_general}), and patient sex ({sex}) shape your clinical impression?",
+                "What is your holistic interpretation of this case, considering patient factors and lesion characteristics?",
+                "Based on the patient's age group ({age_approx}) and the {anatom_site_general} presentation, what clinical patterns emerge?",
+                "How would you synthesize the demographic information and anatomical location in your diagnostic reasoning?",
+                "What conclusions can you draw from the combination of patient age ({age_approx}), {sex} sex, and {anatom_site_general} lesion site?"
+            ]
+        }
+    ],
+    "pad-ufes-20": [
+        {
+            "question_type": "Identify the Lesion",
+            "variations": [
+                "Based on the appearance of this lesion/skin disease, what condition might it represent?",
+                "What is the most likely diagnosis for the lesion/skin disease in this image?",
+                "What type of skin condition is depicted in this image?",
+                "What dermatological condition does this lesion/skin disease most resemble?",
+                "Looking at this image, what skin disease could this lesion/skin disease indicate?",
+                "What type of lesion/skin disease does this image most likely show?",
+                "Based on its visual features, what might this lesion/skin disease be categorized as?",
+                "What skin disorder might be associated with this lesion/skin disease?",
+                "What condition does the appearance of this lesion/skin disease suggest?",
+                "Based solely on the image, how would you classify this lesion/skin disease?"
+            ]
+        },
+        {
+            "question_type": "Identify the Lesion 2",
+            "variations": [
+                "What type of skin condition does this lesion/disease most closely resemble?",
+                "Looking at this lesion/disease, what clinical diagnosis might be suggested?",
+                "What dermatological condition is most likely based on the appearance of this lesion/disease?",
+                "What might be the underlying condition for the lesion/disease seen in this image?",
+                "Based on the lesion/disease's characteristics, what diagnosis would you consider?",
+                "What condition does this lesion/disease most likely represent in a clinical setting?",
+                "Considering its morphology, what might this lesion/disease indicate?",
+                "What diagnostic category would you place this lesion/disease in based on its appearance?",
+                "What is your clinical impression of this lesion/disease based on the image?",
+                "What condition comes to mind first when examining this lesion/disease?"
+            ]
+        },
+        {
+            "question_type": "Visual Features",
+            "variations": [
+                "Describe the key visual features of the lesion/skin disease in this image.",
+                "What do the lesion/skin disease's borders, color, and texture suggest about its nature?",
+                "How would you describe the texture, shape, or pigmentation of this lesion/skin disease?",
+                "What specific visual characteristics stand out in this lesion/skin disease?",
+                "Describe the lesion/skin disease's morphology, including any notable patterns or asymmetry.",
+                "What are the key distinguishing features visible in this lesion/skin disease?",
+                "How would you characterize the overall structure and appearance of this lesion/skin disease?",
+                "Describe the borders, pigmentation, and symmetry of this lesion/skin disease.",
+                "What visual traits of this lesion/skin disease are most prominent?",
+                "Based on the image, what key features define this lesion/skin disease?",
+                "Describe the lesion/skin disease's color, border, and texture. What do these features suggest about its nature?",
+                "Describe the lesion/skin disease's color, border, and texture. Classify the lesion/skin disease based on these features.",
+                "Describe the lesion/skin disease's color, border, and symmetry. How do these factors influence its diagnosis?",
+                "Describe the lesion/skin disease's color, outline, and elevation. What implications do these features have for potential treatment?",
+                "Describe the lesion/skin disease's pigmentation, margins, and surface. How do these characteristics shape its classification?",
+                "Describe the lesion/skin disease's hue, border definition, and texture. How would you interpret these findings?",
+                "Describe the lesion/skin disease's color transition, edges, and thickness. What do these suggest about possible progression?"
+            ]
+        },
+        {
+            "question_type": "Visual Features 2",
+            "variations": [
+                "What specific morphological details stand out in this lesion/disease?",
+                "Describe the lesion / disease's color patterns and what they suggest.",
+                "What do the lesion / disease's border characteristics indicate about its nature?",
+                "How would you interpret the texture and symmetry of this lesion / disease?",
+                "What key visual elements in this lesion / disease could aid in diagnosis?",
+                "Describe the unique patterns or irregularities visible in this lesion / disease.",
+                "What does the lesion / disease's distribution of pigmentation suggest?",
+                "What are the most prominent visual features in this lesion / disease?",
+                "How would you characterize the overall appearance of this lesion / disease, including shape and texture?",
+                "What visual details in this lesion / disease could provide diagnostic clues?",
+                "Describe the lesion/skin disease's color uniformity, border shape, and tactile feel. How might these observations guide further testing?",
+                "Describe the lesion/skin disease's color patterns, border regularity, and overall size. How do these aspects affect your assessment?",
+                "Describe the lesion/skin disease's color contrast, border type, and surface texture. What could this indicate regarding its severity?",
+                "Describe the lesion/skin disease's color variations, border clarity, and any visible asymmetry. How might these features inform a diagnosis?",
+                "Describe the lesion/skin disease's color distribution, border style, and raised or flat areas. How would these details influence classification?"
+            ]
+        }
+    ],
+    "scin": [
+        {
+            "question_type": "Primary Features Analysis",
+            "variations": [
+                "What are the main visual features that could help distinguish between possible diagnoses in this lesion/disease?",
+                "Which morphological characteristics of this lesion/disease are most helpful for diagnosis?",
+                "What key visual elements of this lesion/disease would guide your diagnostic reasoning?",
+                "Describe the most prominent features that could help differentiate between potential diagnoses.",
+                "What specific visual patterns in this lesion/disease are most diagnostically significant?",
+                "Which characteristics of this lesion/disease would you consider most important for diagnosis?",
+                "What visual traits of this lesion/disease stand out as diagnostically relevant?",
+                "Describe the primary features that could help narrow down the diagnosis of this lesion/disease.",
+                "What observable characteristics are most crucial for diagnosing this lesion/disease?",
+                "Which visual aspects of this lesion/disease would you focus on for diagnosis?",
+                "What distinctive features of this lesion/disease help guide diagnostic consideration?",
+                "Which morphological patterns in this lesion/disease are most indicative of its nature?",
+                "What key visual clues in this lesion/disease support diagnostic reasoning?",
+                "Describe the essential visual elements that inform the diagnosis of this lesion/disease.",
+                "What primary characteristics help distinguish this lesion/disease from others?",
+                "Which visual features of this lesion/disease are most diagnostically valuable?",
+                "What observable traits make this lesion/disease diagnostically distinct?",
+                "Describe the main visual characteristics that aid in diagnosing this lesion/disease.",
+                "What key morphological features define this lesion/disease's appearance?",
+                "Which visual aspects of this lesion/disease are most useful for diagnosis?"
+            ]
+        },
+        {
+            "question_type": "Diagnostic Reasoning",
+            "variations": [
+                "Based on the visual features, what diagnoses would you consider for this lesion/disease, and why?",
+                "How do the visible characteristics of this lesion/disease support different diagnostic possibilities?",
+                "What diagnostic considerations arise from the appearance of this lesion/disease?",
+                "How would you build your differential diagnosis based on this lesion/disease's visual features?",
+                "What diagnostic hypotheses would you form based on the appearance of this lesion/disease?",
+                "How do the visual patterns in this lesion/disease inform potential diagnoses?",
+                "What diagnostic possibilities would you consider given these visual findings?",
+                "How would you approach diagnosing this lesion/disease based on its appearance?",
+                "What diagnoses should be considered given the visual features of this lesion/disease?",
+                "How do the visible traits of this lesion/disease guide diagnostic thinking?",
+                "What diagnostic pathways would you explore based on these visual findings?",
+                "How would you rank potential diagnoses based on this lesion/disease's appearance?",
+                "What diagnostic considerations emerge from examining this lesion/disease?",
+                "How do the visual characteristics shape your diagnostic approach?",
+                "What diagnoses would you prioritize based on these visual features?",
+                "How would you develop a diagnostic framework for this lesion/disease?",
+                "What diagnostic possibilities align with these visual findings?",
+                "How would you structure your diagnostic thinking for this lesion/disease?",
+                "What diagnostic scenarios would you consider given these features?",
+                "How do the visual elements inform your diagnostic assessment?"
+            ]
+        },
+        {
+            "question_type": "Confidence Assessment",
+            "variations": [
+                "What aspects of this lesion/disease's appearance increase or decrease diagnostic certainty?",
+                "Which visual features help establish or challenge potential diagnoses?",
+                "How definitively can this lesion/disease be diagnosed based on its appearance?",
+                "What characteristics of this lesion/disease affect diagnostic confidence?",
+                "How do the visual features influence certainty in diagnosis?",
+                "What elements of this lesion/disease make diagnosis more or less clear?",
+                "Which aspects of the lesion/disease's appearance impact diagnostic confidence?",
+                "How strongly do the visual features support specific diagnoses?",
+                "What factors in this lesion/disease's presentation affect diagnostic certainty?",
+                "How conclusively can diagnoses be made from these visual features?",
+                "What visual elements strengthen or weaken diagnostic confidence?",
+                "How do the observable features affect diagnostic certainty?",
+                "Which characteristics make the diagnosis more or less definitive?",
+                "What aspects of appearance influence diagnostic confidence levels?",
+                "How do visual patterns impact the certainty of diagnosis?",
+                "What features help establish diagnostic confidence?",
+                "Which visual elements make the diagnosis more or less certain?",
+                "How do the visible traits affect diagnostic assurance?",
+                "What characteristics influence the confidence in specific diagnoses?",
+                "How do the visual findings impact diagnostic certainty?"
+            ]
+        },
+        {
+            "question_type": "Evolution Indicators",
+            "variations": [
+                "What visual clues suggest the stage or progression of this lesion/disease?",
+                "How would you assess the chronicity of this lesion/disease based on its appearance?",
+                "What features indicate the developmental stage of this lesion/disease?",
+                "How do the visual characteristics suggest the timeline of this lesion/disease?",
+                "What signs indicate how this lesion/disease might have evolved?",
+                "How would you estimate the duration based on visual features?",
+                "What visual elements suggest the maturity of this lesion/disease?",
+                "How do appearance characteristics indicate the stage of development?",
+                "What features help determine the age of this lesion/disease?",
+                "How would you assess the temporal progression based on appearance?",
+                "What visual markers indicate the evolution of this lesion/disease?",
+                "How do the features suggest the developmental phase?",
+                "What characteristics help determine the stage of progression?",
+                "How would you evaluate the chronological development visually?",
+                "What elements indicate the temporal stage of this lesion/disease?",
+                "How do visual features reflect the progression timeline?",
+                "What signs suggest the developmental status of this lesion/disease?",
+                "How would you assess the evolutionary stage from these features?",
+                "What visual clues indicate the chronological phase?",
+                "How do appearance traits suggest the progression stage?"
+            ]
+        }
+    ],
+    "scin_clinical": [
+            {
+                "question_type": "Symptom Assessment",
+                "variations": [
+                    "The patient reports {symptoms} in the {body_parts} area. What signs support these symptoms in the image?",
+                    "Given the reported {symptoms}, what visual findings in the {body_parts} confirm this complaint?",
+                    "The patient mentions {symptoms} at the {body_parts}. What objective signs do you observe?",
+                    "How do the visual characteristics of this {textures} lesion correlate with the reported {symptoms}?",
+                    "Based on the image, how do the clinical findings support the patient's complaint of {symptoms}?",
+                    "What visible features in the {body_parts} region correspond to the patient's {symptoms}?",
+                    "The patient describes {symptoms} with {textures} texture. What clinical signs support this?",
+                    "Examining the {body_parts}, what visual evidence supports the reported {symptoms}?",
+                    "What objective findings in the {body_parts} area validate the patient's {symptoms}?",
+                    "How do the visual signs in the {body_parts} region align with the patient's {symptoms}?",
+                    "The patient reports {symptoms} in the {body_parts} area. What signs support these symptoms in the image?"
+                ]
+            },
+            {
+                "question_type": "Symptom Assessment 2",
+                "variations": [
+                    "How does the lesion's {textures} appearance relate to the reported {symptoms}?",
+                    "What visual signs in the {body_parts} region align with the patient's {symptoms}?",
+                    "The patient's {symptoms} are localized to the {body_parts}. What visual signs confirm this?",
+                    "What objective features in the {body_parts} area correspond to the patient's {symptoms}?",
+                    "How do the visual findings in the {body_parts} region correlate with the patient's {symptoms}?",
+                    "The patient's {symptoms} are centered around the {body_parts}. What visual signs support this?",
+                    "What visible signs in the {body_parts} area validate the patient's {symptoms}?",
+                    "How do the clinical findings in the {body_parts} region align with the patient's {symptoms}?",
+                    "The patient's {symptoms} are focused on the {body_parts}. What visual signs confirm this?",
+                    "What objective features in the {body_parts} area correspond to the patient's {symptoms}?",
+                    "How does the lesion's {textures} appearance relate to the reported {symptoms}?"
+                ]
+            },
+            {
+                "question_type": "Clinical Correlation",
+                "variations": [
+                    "How do the {symptoms} and {textures} appearance together suggest a diagnosis?",
+                    "What clinical correlation can be made between the {symptoms} and the lesion's {textures} features?",
+                    "Based on the {textures} appearance and {symptoms}, what diagnostic possibilities emerge?",
+                    "How does the combination of {symptoms} and location in {body_parts} guide your assessment?",
+                    "What diagnostic considerations arise from the {textures} appearance and reported {symptoms}?",
+                    "How do the patient's {symptoms} align with the lesion's appearance in the {body_parts}?",
+                    "What clinical significance do you attribute to the {textures} features and {symptoms}?",
+                    "How does the presence of {symptoms} in this {textures} lesion influence your diagnosis?",
+                    "What clinical patterns do you recognize from the combination of {symptoms} and {textures} features?",
+                    "Based on the {symptoms} and location in {body_parts}, what clinical patterns emerge?"
+                ]
+            },
+            {
+                "question_type": "Clinical Correlation 2",
+                "variations": [
+                    "How do the {symptoms} and {textures} appearance together inform your diagnostic reasoning?",
+                    "What diagnostic hypotheses arise from the combination of {symptoms} and {textures} features?",
+                    "How do the patient's {symptoms} and lesion's {textures} appearance correlate with potential diagnoses?",
+                    "What diagnostic pathways would you explore based on the {symptoms} and {textures} appearance?",
+                    "How do the {symptoms} and {textures} features together shape your diagnostic approach?",
+                    "What diagnostic possibilities align with the combination of {symptoms} and {textures} features?",
+                    "How would you structure your diagnostic thinking based on the {symptoms} and {textures} appearance?",
+                    "What diagnostic scenarios would you consider given the {symptoms} and {textures} features?",
+                    "How do the {symptoms} and {textures} appearance impact your diagnostic assessment?",
+                    "What clinical elements emerge from the combination of {symptoms} and {textures} features?"
+                ]
+            },
+            {
+                "question_type": "Distribution Analysis",
+                "variations": [
+                    "How would you describe the distribution of lesions across the affected {body_parts}?",
+                    "What pattern of involvement do you observe in the {body_parts} region?",
+                    "Describe the arrangement of {textures} lesions on the {body_parts}.",
+                    "What is the distribution pattern of these {textures} lesions?",
+                    "How are the lesions distributed across the involved {body_parts}?",
+                    "What is the spatial arrangement of these lesions on the {body_parts}?",
+                    "Describe the anatomical distribution of the {textures} lesions.",
+                    "What is the pattern of lesion spread across the {body_parts}?",
+                    "How would you characterize the layout of lesions in the affected area?",
+                    "What is notable about the distribution of {textures} features across the {body_parts}?",
+                    "Describe the spatial distribution of these {textures} lesions.",
+                    "What pattern of involvement do you see in the {body_parts} region?",
+                    "How are the lesions distributed across the involved {body_parts}?",
+                    "What is the spatial arrangement of these lesions on the {body_parts}?",
+                    "Describe the anatomical distribution of the {textures} lesions.",
+                    "What is the pattern of lesion spread across the {body_parts}?",
+                    "How would you characterize the layout of lesions in the affected area?",
+                    "What is notable about the distribution of {textures} features across the {body_parts}?",
+                    "Describe the spatial distribution of these {textures} lesions."
+                ]
+            }
+        ]
+    }
